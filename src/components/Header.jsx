@@ -12,6 +12,7 @@ function Header() {
           <li><a href="/roadmap">Roadmap</a></li>
           <li><a href="/Partnerships">Partnerships</a></li>
           <li><a href="/Technology">Technology</a></li>
+          <li><a href="/Community"> Community </a></li>
           </ul>
           </nav>
           <a className="cta" href="/contact"><button>Contact</button></a>

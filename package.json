@@ -18,6 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "author": "Marios",
   "eslintConfig": {
     "extends": [
       "react-app",

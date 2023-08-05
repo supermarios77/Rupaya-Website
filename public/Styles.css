@@ -224,6 +224,11 @@ footer li {
   color: black;
 }
 
+.text-box h2 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
 /* About */
 
 .about-section {
@@ -498,4 +503,12 @@ h4 {
 
 .Technology {
   height: 320vh;
+}
+
+/* Community */
+
+.Community {
+  width: 100%;
+  height: 230vh;
+  padding: 0 8%;
 }

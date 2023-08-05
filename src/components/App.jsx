@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "./Header";
 import Footer from "./Footer";
-import Technology from "./Technology";
+import Community from "./Community";
 
 
 
@@ -9,7 +9,7 @@ function App() {
     return (
         <div>
             <Header />
-            <Technology />
+            <Community />
             <Footer />
         </div>
     );

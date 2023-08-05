@@ -31,7 +31,7 @@ function Home() {
       </div>
 
       <div className="row">
-        <div className="Short-Overview">
+        <div className="text-box">
           <i class="fa-regular fa-clock"></i>
           <p>
             Our story began with a pioneering mission to introduce
@@ -39,14 +39,14 @@ function Home() {
             embracing the power of decentralised finance.
           </p>
         </div>
-        <div className="Short-Overview">
+        <div className="text-box">
           <i class="fa-solid fa-road"></i>
           <p>
             Our journey has been marked by challenges, but with each obstacle,
             we have grown stronger, always committed to our mission
           </p>
         </div>
-        <div className="Short-Overview">
+        <div className="text-box">
           <i class="fa-solid fa-crown"></i>
           <p>
             From humble beginnings as a scrypt PoW blockchain, we have embraced
@@ -54,7 +54,7 @@ function Home() {
             global accessibility
           </p>
         </div>
-        <div className="Short-Overview">
+        <div className="text-box">
           <i class="fa-solid fa-mountain"></i>
           <p>
             Looking ahead, we envision revitalizing our project by assembling a
@@ -62,14 +62,14 @@ function Home() {
             possibilities.
           </p>
         </div>
-        <div className="Short-Overview">
+        <div className="text-box">
           <i class="fa-solid fa-globe"></i>
           <p>
             While our roots are in South Asia, our vision now extends worldwide.
             We aim to foster financial inclusion across borders and cultures.
           </p>
         </div>
-        <div className="Short-Overview">
+        <div className="text-box">
           <i class="fa-solid fa-thumbs-up"></i>
           <p>
             We invite you to join us as we explore the boundless potential of

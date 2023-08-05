@@ -12,7 +12,7 @@ function Partnerships() {
           and we seek partnerships with like-minded organizations that share our
           vision.
         </h4>
-        <div className="Partnerships-Box">
+        <div className="Box">
           <h3>Embracing Decentralization</h3>
           <p>
             Decentralization is the cornerstone of blockchain technology,
@@ -24,7 +24,7 @@ function Partnerships() {
           <span className="semi-circle"> </span>
         </div>
       </div>
-      <div className="Partnerships-Box">
+      <div className="Box">
         <h3>Our Valued Partners</h3>
         <p>
           Note: The following list contains a sample of potential partnerships
@@ -32,7 +32,7 @@ function Partnerships() {
         </p>
         <span className="semi-circle"> </span>
       </div>
-      <div className="Partnerships-Box">
+      <div className="Box">
         <h3>Community Driven Projects</h3>
         <p>
           We actively seek collaborations with community-driven blockchain
@@ -42,7 +42,7 @@ function Partnerships() {
         </p>
         <span className="semi-circle"> </span>
       </div>
-      <div className="Partnerships-Box">
+      <div className="Box">
         <h3>Technology Innovators:</h3>
         <p>
           Collaborating with technology innovators allows us to harness
@@ -52,7 +52,7 @@ function Partnerships() {
         </p>
         <span className="semi-circle"> </span>
       </div>
-      <div className="Partnerships-Box">
+      <div className="Box">
         <h3>Social Impact Initiatives:</h3>
         <p>
           We are passionate about driving positive change and making a
@@ -62,7 +62,7 @@ function Partnerships() {
         </p>
         <span className="semi-circle"> </span>
       </div>
-      <div className="Partnerships-Box">
+      <div className="Box">
         <h3>Join Us On Our Mission</h3>
         <p>
           If your organization shares our vision of challenging mainstream

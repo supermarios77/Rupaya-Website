@@ -1,14 +1,14 @@
 import React from "react";
 import Header from "./Header";
 import Footer from "./Footer";
-import About from "./About";
+import Roadmap from "./Roadmap";
 
 
 function App() {
     return (
         <div>
             <Header />
-            <About />
+            <Roadmap />
             <Footer />
         </div>
     );

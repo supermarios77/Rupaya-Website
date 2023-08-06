@@ -7,7 +7,7 @@ function Header() {
       <h1>Rupaya</h1>
       <nav>
         <ul className="nav_links">
-          <li><a href="/Home" className="Home-Link">Home</a></li>
+          <li><a href="/" className="Home-Link">Home</a></li>
           <li><a href="/About">About Us</a></li>
           <li><a href="/roadmap">Roadmap</a></li>
           <li><a href="/Partnerships">Partnerships</a></li>

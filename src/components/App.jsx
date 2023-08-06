@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "./Header";
 import Footer from "./Footer";
-import Community from "./Community";
+import Terms from "./Terms";
 
 
 
@@ -9,7 +9,7 @@ function App() {
     return (
         <div>
             <Header />
-            <Community />
+            <Terms />
             <Footer />
         </div>
     );

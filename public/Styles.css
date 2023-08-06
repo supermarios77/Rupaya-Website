@@ -560,7 +560,7 @@ h4 {
 
 .Contact {
   width: 100%;
-  min-height: 140vh;
+  height: 100vh;
   background-color: #2e2e2e;
   color: white;
   font-family: "Poppins", sans-serif;
@@ -573,7 +573,6 @@ h4 {
   display: flex;
   justify-content: space-between;
   width: 100%;
-  max-width: 1100px;
 }
 
 .row section.col {

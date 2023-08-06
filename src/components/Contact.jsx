@@ -13,27 +13,6 @@ function Contact() {
               </p>
             </div>
 
-            <div className="contactInfo">
-              <div className="icon-group">
-                <div className="icon">
-                  <i className="fa-solid fa-phone"></i>
-                </div>
-                <div className="details">
-                  <span>Phone</span>
-                  <span>+728 273 83092</span>
-                </div>
-              </div>
-
-              <div className="icon-group">
-                <div className="icon">
-                  <i className="fa-solid fa-envelope"></i>
-                </div>
-                <div className="details">
-                  <span>Email</span>
-                  <span>name@gmail.com</span>
-                </div>
-              </div>
-
               <div className="socialMedia">
                 <a href="https://twitter.com/RupayaCoin">
                   <i class="fa-brands fa-twitter"></i>
@@ -48,7 +27,7 @@ function Contact() {
                   <i class="fa-brands fa-discord"></i>
                 </a>
               </div>
-            </div>
+
           </section>
 
           <section className="col right">

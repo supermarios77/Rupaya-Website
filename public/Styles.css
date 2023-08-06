@@ -253,21 +253,22 @@ footer li {
 .Container .title h1 {
   text-transform: uppercase;
   font-size: 60px;
-  color: rgb(5, 128, 139);
+  color: rgb(24, 25, 25);
+  font-family: 'Roboto';
 }
 
 .Container .title h1::after {
   content: "";
   height: 5px;
   width: 100%;
-  background-color: rgb(5, 111, 121);
+  background-color: rgb(2, 2, 2);
   border-radius: 25px;
   display: block;
   margin: auto;
 }
 
 .Content .article h3 {
-  color: #555555;
+  color: #262626;
   font-size: 35px;
 }
 
@@ -275,6 +276,7 @@ footer li {
   margin-top: 20px;
   font-size: 25px;
   line-height: 1.5;
+  color: black;
 }
 
 .Content .Article-End .Founder {
@@ -408,6 +410,7 @@ main.row {
 .Box p {
   font-size: 15px;
   color: #d6c9c9;
+  font-family: 'Montserrat';
 }
 
 .Box::before {
@@ -485,6 +488,7 @@ h4 {
   margin-top: 50px;
   margin-left: 5px;
   margin-right: 5px;
+  font-family:'Montserrat','Poppins';
 }
 
 .Partnerships .Container h1 {
@@ -522,6 +526,10 @@ h4 {
   border-radius: 30px;
   background: rgb(35, 33, 33);
   color: white;
+}
+
+.Terms-Heading h1 {
+  font-family: 'Poppins';
 }
 
 .Highlight {
@@ -778,6 +786,8 @@ textarea::-webkit-scrollbar-thumb {
 
 .Community-Heading h1 {
   font-size: 3rem;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
 }
 
 @keyframes color {
@@ -811,6 +821,7 @@ textarea::-webkit-scrollbar-thumb {
   cursor: pointer;
 }
 
+
 .Community-Text-Box::after {
   width: 100%;
   height: 100%;
@@ -821,15 +832,15 @@ textarea::-webkit-scrollbar-thumb {
   top: 0;
   left: 0;
   z-index: -2;
-  clip-path: circle(20% at 90% 10%);
+  clip-path: circle(30% at 90% 10%);
   transition: 0.2s;
 }
 
 .Community-Text-Box .semiCircle {
   position: absolute;
-  top: 15px;
-  right: 30px;
-  font-size: 50px;
+  top: 25px;
+  right: 40px;
+  font-size: 65px;
   font-weight: bolder;
   color: white;
 }

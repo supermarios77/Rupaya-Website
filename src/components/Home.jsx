@@ -7,7 +7,7 @@ function Home() {
         <div className="Hero-text">
           <p> Discover A New Era</p>
           <h1>
-            Embrace Financial Freedom. <br /> Unlocking New Possibilities!.
+            Embrace Financial Freedom. <br /> Unlocking New Possibilities!
           </h1>
           <button className="Primary-Btn"> About Us </button>
           <button className="Secondary-Btn"> Roadmap </button>

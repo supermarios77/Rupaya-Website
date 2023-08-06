@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "./Header";
 import Footer from "./Footer";
-import Terms from "./Terms";
+import Contact from "./Contact";
 
 
 
@@ -9,7 +9,7 @@ function App() {
     return (
         <div>
             <Header />
-            <Terms />
+            <Contact />
             <Footer />
         </div>
     );
